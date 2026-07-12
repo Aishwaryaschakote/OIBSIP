@@ -28,7 +28,7 @@ This repository contains all the projects completed as part of my **Web Developm
 
 ## Connect with Me
 
-- **LinkedIn:** *(Add your LinkedIn profile link)*
+- **LinkedIn:** (https://www.linkedin.com/in/aishwaryachakote/)
 - **GitHub:** https://github.com/Aishwaryaschakote
 
 ---
