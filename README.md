@@ -16,6 +16,12 @@ This repository contains the projects completed as part of my **Web Development 
 | Task 2 | Personal Portfolio | HTML5, CSS3, JavaScript | ⏳ In Progress |
 | Task 3 | Temperature Converter | HTML5, CSS3, JavaScript | ⏳ Pending |
 
+## Live Projects
+
+- **Task 1 - Auralis Landing Page:** https://auralis-landing-page.netlify.app
+- **Task 2 - Personal Portfolio:** Coming Soon
+- **Task 3 - Temperature Converter:** Coming Soon
+
 ## Repository Structure
 
 ```text
