@@ -23,12 +23,12 @@ This repository contains all the projects completed as part of my **Web Developm
 - HTML5
 - CSS3
 - JavaScript
-- React (if applicable)
+- React 
 - Git & GitHub
 
 ## Connect with Me
 
-- **LinkedIn:** (https://www.linkedin.com/in/aishwaryachakote/)
+- **LinkedIn:** https://www.linkedin.com/in/aishwaryachakote/
 - **GitHub:** https://github.com/Aishwaryaschakote
 
 ---
