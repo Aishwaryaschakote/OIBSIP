@@ -351,7 +351,7 @@ header{
 
     gap:60px;
 
-    min-height:90vh;
+    min-height:80vh;
 
 }
 
@@ -423,9 +423,8 @@ header{
 
 }
 
-
 /* =====================================================
-                HERO RIGHT
+                    HERO IMAGE
 ====================================================== */
 
 .hero-image{
@@ -438,113 +437,24 @@ header{
 
 }
 
+.hero-image img{
 
-/*
-    Placeholder Card
+    width:100%;
+    max-width:600px;
+    height:auto;
+    display:block;
 
-    Later we can replace this with
-    a dashboard screenshot.
-*/
-
-.image-placeholder{
-
-    width:520px;
-
-    height:380px;
-
-    background:linear-gradient(
-        145deg,
-        #ffffff,
-        #f5f7fb
-    );
-
-    border:1px solid var(--border);
-
-    border-radius:24px;
-
-    box-shadow:var(--shadow);
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    font-family:'Space Grotesk',sans-serif;
-
-    font-size:1.5rem;
-
-    color:var(--text-secondary);
-
-    position:relative;
-
-    overflow:hidden;
+    margin-top:-20px;
 
 }
 
+/* Slight hover effect */
 
-/* Decorative Circle */
+.hero-image img:hover{
 
-.image-placeholder::before{
-
-    content:"";
-
-    position:absolute;
-
-    width:220px;
-
-    height:220px;
-
-    background:#EEF2FF;
-
-    border-radius:50%;
-
-    top:-70px;
-
-    right:-60px;
+    transform:scale(1.03);
 
 }
-
-
-/* Decorative Circle */
-
-.image-placeholder::after{
-
-    content:"";
-
-    position:absolute;
-
-    width:160px;
-
-    height:160px;
-
-    background:#CCFBF1;
-
-    border-radius:50%;
-
-    bottom:-50px;
-
-    left:-40px;
-
-}
-
-
-/* Keep text above decorative shapes */
-
-.image-placeholder{
-
-    z-index:1;
-
-}
-
-.image-placeholder span{
-
-    position:relative;
-
-    z-index:2;
-
-}
-
 
 /* =====================================================
             TRUSTED BY SECTION
@@ -844,6 +754,7 @@ header{
 
 
 /* Connecting Line */
+/*
 
 .steps .step:not(:last-child)::after{
 
@@ -862,6 +773,7 @@ header{
     top:80px;
 
 }
+*/
 
 
 /* =====================================================
@@ -1240,7 +1152,7 @@ footer hr{
 
 
 /* =====================================================
-                OPTIONAL SOCIAL ICONS
+                    SOCIAL LINKS
 ====================================================== */
 
 .social-icons{
@@ -1251,35 +1163,37 @@ footer hr{
 
     margin-top:25px;
 
-}
+    flex-wrap:wrap;
 
+}
 
 .social-icons a{
 
-    width:45px;
+    padding:10px 18px;
 
-    height:45px;
+    border:1px solid rgba(255,255,255,.15);
 
-    border-radius:50%;
+    border-radius:10px;
 
-    background:rgba(255,255,255,.08);
+    color:#CBD5E1;
 
-    display:flex;
+    font-size:.95rem;
 
-    justify-content:center;
+    font-weight:500;
 
-    align-items:center;
-
-    transition:.3s;
+    transition:.3s ease;
 
 }
-
 
 .social-icons a:hover{
 
     background:var(--primary);
 
-    transform:translateY(-5px);
+    border-color:var(--primary);
+
+    color:white;
+
+    transform:translateY(-3px);
 
 }
 /* =====================================================
