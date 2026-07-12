@@ -39,6 +39,10 @@ WebDev-L1-LandingPage/
 2. Open the `WebDev-L1-LandingPage` folder.
 3. Open `index.html` in your browser or run it using VS Code Live Server.
 
+## Live Demo
+
+🌐 https://auralis-landing-page.netlify.app
+
 ## Author
 
 **Aishwarya**
