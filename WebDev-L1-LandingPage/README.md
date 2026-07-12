@@ -41,7 +41,7 @@ WebDev-L1-LandingPage/
 
 ## Author
 
-**Aishwarya Chakote**
+**Aishwarya**
 
 ---
 
