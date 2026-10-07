@@ -1,6 +1,6 @@
 # Oasis Infobyte - Web Development & Designing Internship
 
-This repository contains all the projects completed as part of my **Web Development & Designing Internship** at **Oasis Infobyte**.
+This repository contains the projects completed as part of my **Web Development & Designing Internship** at **Oasis Infobyte**.
 
 ## Internship Details
 
@@ -10,21 +10,36 @@ This repository contains all the projects completed as part of my **Web Developm
 
 ## Projects
 
-| Task | Project | Status |
-|------|---------|--------|
-| Task 1 | Coming Soon | ⏳ |
-| Task 2 | Coming Soon | ⏳ |
-| Task 3 | Coming Soon | ⏳ |
+| Task | Project | Technologies | Status |
+|------|---------|--------------|--------|
+| Task 1 | Responsive Landing Page (Auralis) | HTML5, CSS3 | ✅ Completed |
+| Task 2 | Personal Portfolio | HTML5, CSS3, JavaScript | ⏳ In Progress |
+| Task 3 | Temperature Converter | HTML5, CSS3, JavaScript | ⏳ Pending |
 
-> The table will be updated as I complete each project.
+## Live Projects
+
+- **Task 1 - Auralis Landing Page:** https://auralis-landing-page.netlify.app
+- **Task 2 - Personal Portfolio:** Coming Soon
+- **Task 3 - Temperature Converter:** Coming Soon
+
+## Repository Structure
+
+```text
+OIBSIP/
+│
+├── WebDev-L1-LandingPage/
+├── WebDev-L1-PersonalPortfolio/
+├── WebDev-L1-TemperatureConverter/
+└── README.md
+```
 
 ## Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
-- React 
-- Git & GitHub
+- Git
+- GitHub
 
 ## Connect with Me
 
@@ -32,4 +47,5 @@ This repository contains all the projects completed as part of my **Web Developm
 - **GitHub:** https://github.com/Aishwaryaschakote
 
 ---
+
 ⭐ Thank you for visiting this repository!
