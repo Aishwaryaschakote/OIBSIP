@@ -13,25 +13,23 @@ This repository contains the projects completed as part of my **Web Development 
 | Task | Project | Technologies | Status |
 |------|---------|--------------|--------|
 | Task 1 | Responsive Landing Page (Auralis) | HTML5, CSS3 | ✅ Completed |
-| Task 2 | Personal Portfolio | HTML5, CSS3, JavaScript | ⏳ In Progress |
-| Task 3 | Temperature Converter | HTML5, CSS3, JavaScript | ⏳ Pending |
+| Task 2 | Personal Portfolio | HTML5, CSS3, JavaScript | ✅ Completed |
+| Task 3 | Temperature Converter | HTML5, CSS3, JavaScript | ✅ Completed |
 
 ## Live Projects
 
-- **Task 1 - Auralis Landing Page:** https://auralis-landing-page.netlify.app
-- **Task 2 - Personal Portfolio:** Coming Soon
-- **Task 3 - Temperature Converter:** Coming Soon
+- **Task 1 - Auralis Landing Page:** https://auralis-landing-page.netlify.app/
+- **Task 2 - Personal Portfolio:** https://aish-folio.vercel.app/
+- **Task 3 - Temperature Converter:** https://aishtemperatureconverter.netlify.app/
 
 ## Repository Structure
 
-```text
-OIBSIP/
-│
-├── WebDev-L1-LandingPage/
-├── WebDev-L1-PersonalPortfolio/
-├── WebDev-L1-TemperatureConverter/
-└── README.md
-```
+    OIBSIP/
+    │
+    ├── WebDev-L1-LandingPage/
+    ├── WebDev-L1-PersonalPortfolio/
+    ├── WebDev-L1-TemperatureConverter/
+    └── README.md
 
 ## Tech Stack
 
